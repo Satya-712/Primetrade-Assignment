@@ -38,3 +38,6 @@ Analyze the relationship between Bitcoin market sentiment (Fear & Greed Index) a
 ## Conclusion
 
 Market sentiment significantly influences trader behavior and profitability. Fear periods attract higher participation, while Extreme Greed periods provide the highest average profitability. Monitoring sentiment indicators can help traders improve risk management and trading decisions.
+=======
+# Primetrade-Assignment
+Trader Behavior Analysis Based on Bitcoin Market Sentiment using Hyperliquid Historical Trading Data and Fear &amp; Greed Index.
